@@ -20,7 +20,7 @@ $(document).ready(function(){
     //initalize g maps
     function initialize() {
         var mapOptions = {
-            center: new google.maps.LatLng(51.511214, -0.119824),
+            center: new google.maps.LatLng(49.2500, 123.1000),
             zoom: 12,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
             disableDefaultUI :  false
