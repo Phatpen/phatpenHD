@@ -1,4 +1,0 @@
-phatpen
-=======
-
-Splash Page
